@@ -40,6 +40,8 @@ Detailed results, figures and analysis will be added here.
 This project explores the potential structural and functional effects of selected MEF2C missense variants using computational bioinformatics approaches.
 
 ## 8. Author
-Kabilan K
+
+**Kabilan K**
+
 M.Sc. Bioinformatics
 
