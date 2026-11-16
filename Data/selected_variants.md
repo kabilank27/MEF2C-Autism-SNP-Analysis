@@ -16,7 +16,7 @@ This project investigates the potential effects of deleterious missense variants
 
 | S.No | Variant | rs ID |
 |---|---|---|
-| 1 | R15P | rs120295729 |
+| 1 | R15P | rs1202957297 |
 | 2 | L38P | rs397514655 |
 | 3 | L38Q | rs397514655 |
 | 4 | C39R | rs796052729 |
