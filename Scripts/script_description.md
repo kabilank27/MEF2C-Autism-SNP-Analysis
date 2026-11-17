@@ -1,21 +1,17 @@
+Software and Tools Used
 
-# Scripts
+Analysis| Software / Database
+Functional prediction| SIFT, PolyPhen-2
+Protein stability prediction| I-Mutant 2.0, MUpro
+Functional effect prediction| MutPred2
+Protein structure modelling| I-TASSER
+Molecular dynamics simulation| GROMACS
+Protein interaction analysis| STRING, GeneMANIA
+Structural analysis| DSSP, STRIDE, Project HOPE
+Protein visualization| PyMOL
 
-## Project Overview
-This folder contains scripts and command-line instructions used in the MEF2C missense variant analysis.
+Script Documentation
 
-## Planned Scripts
+This folder describes the computational tools and analysis procedures used in the MEF2C missense variant project.
 
-1. Protein sequence preparation
-2. Protein structure analysis
-3. Molecular docking analysis
-4. GROMACS molecular dynamics analysis
-5. Result processing and visualisation
-
-## Tools
-- Python
-- GROMACS
-- Ubuntu Linux
-
-## Note
-Verified scripts and commands will be added after reviewing the original project workflow.
+Executable scripts will be added when the corresponding scripts are available and verified.
