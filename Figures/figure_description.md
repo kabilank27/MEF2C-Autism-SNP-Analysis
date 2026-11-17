@@ -1,22 +1,11 @@
+Figure Organization
 
-# Figures
+The figures in this project represent the major stages of MEF2C variant analysis.
 
-This folder contains figures and visual representations generated during the MEF2C variant analysis.
+1. Protein Structure Modelling: Representation of modelled MEF2C protein structures.
+2. Variant Comparison: Comparison of wild-type and mutant protein structures.
+3. Molecular Docking: Visualization of possible molecular interactions.
+4. Molecular Dynamics: Representation of protein structural behaviour during 100 ns simulations.
+5. Protein Interaction Network: Visualization of MEF2C-associated protein interactions.
 
-## Planned Figures
-
-1. MEF2C gene and protein overview
-2. Protein structure models
-3. Structural comparison of wild-type and mutant proteins
-4. Molecular docking results
-5. Molecular dynamics simulation plots
-6. Protein-protein interaction network
-
-## Figure Information
-
-Each figure will include:
-- Figure number
-- Descriptive title
-- Method or software used
-- Short explanation of the result
-- 
+These figures support the interpretation and presentation of the computational analysis results.
