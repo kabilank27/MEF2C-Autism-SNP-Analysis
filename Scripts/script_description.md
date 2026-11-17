@@ -1,14 +1,41 @@
 Software and Tools Used
 
-Analysis| Software / Database
-Functional prediction| SIFT, PolyPhen-2
-Protein stability prediction| I-Mutant 2.0, MUpro
-Functional effect prediction| MutPred2
-Protein structure modelling| I-TASSER
-Molecular dynamics simulation| GROMACS
-Protein interaction analysis| STRING, GeneMANIA
-Structural analysis| DSSP, STRIDE, Project HOPE
-Protein visualization| PyMOL
+1. Functional Prediction
+   
+   - SIFT
+   - PolyPhen-2
+
+2. Protein Stability Prediction
+   
+   - I-Mutant 2.0
+   - MUpro
+
+3. Functional Effect Prediction
+   
+   - MutPred2
+
+4. Protein Structure Modelling
+   
+   - I-TASSER
+
+5. Molecular Dynamics Simulation
+   
+   - GROMACS
+
+6. Protein Interaction Analysis
+   
+   - STRING
+   - GeneMANIA
+
+7. Structural Analysis
+   
+   - DSSP
+   - STRIDE
+   - Project HOPE
+
+8. Protein Visualization
+   
+   - PyMOL
 
 Script Documentation
 
