@@ -1,47 +1,24 @@
+Repository Structure
 
-# MEF2C Missense SNP Analysis in Autism
+The project files are organized into the following folders:
 
-## 1. Project Overview
-This project focuses on the in-silico analysis of selected missense variants in the MEF2C gene and their potential effects on protein structure and function.
+- Analysis/ – Analysis workflow and methodology.
+- Data/ – Variant information and prediction results.
+- Figure/ – Figure descriptions and organization.
+- Results/ – Summary of computational findings.
+- Scripts/ – Software information and script documentation.
 
-## 2. Project Objectives
-- Study selected MEF2C missense variants.
-- Predict protein structural changes.
-- Investigate protein stability.
-- Perform molecular docking analysis.
-- Study protein-protein interactions.
+Key Variants
 
-## 3. Variants Studied
 - R15P
 - L38P
 - L38Q
 - C39R
 
-## 4. Bioinformatics Tools
-- I-TASSER
-- GROMACS
-- STRING
-- GeneMANIA
-- DSSP / STRIDE
-- Project HOPE
+Project Status
 
-## 5. Analysis Workflow
-1. Variant selection
-2. Protein structure prediction
-3. Structural analysis
-4. Molecular docking
-5. Molecular dynamics simulation
-6. Protein interaction analysis
+Computational analysis documentation and prediction results are being organized for reproducibility and further research development.
 
-## 6. Results
-Detailed results, figures and analysis will be added here.
+Limitations
 
-## 7. Project Conclusion
-This project explores the potential structural and functional effects of selected MEF2C missense variants using computational bioinformatics approaches.
-
-## 8. Author
-
-**Kabilan K**
-
-M.Sc. Bioinformatics
-
+This project is based on computational analysis. Experimental validation is required to confirm the biological significance of the predicted effects.
